@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quicksell_display_board/static/css/main.b64a8762.chunk.css",
+    "main.js": "/quicksell_display_board/static/js/main.034f95e4.chunk.js",
+    "main.js.map": "/quicksell_display_board/static/js/main.034f95e4.chunk.js.map",
+    "runtime~main.js": "/quicksell_display_board/static/js/runtime~main.62a9e7fb.js",
+    "runtime~main.js.map": "/quicksell_display_board/static/js/runtime~main.62a9e7fb.js.map",
+    "static/js/2.acdaa6bc.chunk.js": "/quicksell_display_board/static/js/2.acdaa6bc.chunk.js",
+    "static/js/2.acdaa6bc.chunk.js.map": "/quicksell_display_board/static/js/2.acdaa6bc.chunk.js.map",
+    "static/js/3.3b6fb9ae.chunk.js": "/quicksell_display_board/static/js/3.3b6fb9ae.chunk.js",
+    "static/js/3.3b6fb9ae.chunk.js.map": "/quicksell_display_board/static/js/3.3b6fb9ae.chunk.js.map",
+    "index.html": "/quicksell_display_board/index.html",
+    "precache-manifest.ed5547c3f5441dc4c6f4bb542c22870c.js": "/quicksell_display_board/precache-manifest.ed5547c3f5441dc4c6f4bb542c22870c.js",
+    "service-worker.js": "/quicksell_display_board/service-worker.js",
+    "static/css/main.b64a8762.chunk.css.map": "/quicksell_display_board/static/css/main.b64a8762.chunk.css.map"
+  }
+}
