@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quicksell_display_board/precache-manifest.ed5547c3f5441dc4c6f4bb542c22870c.js"
+  "/quicksell_display_board/precache-manifest.d758f9278df7433d2428eeaf6c0860f7.js"
 );
 
 self.addEventListener('message', (event) => {
