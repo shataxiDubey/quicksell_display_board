@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/quicksell_display_board/static/css/main.b64a8762.chunk.css",
-    "main.js": "/quicksell_display_board/static/js/main.1877d66b.chunk.js",
-    "main.js.map": "/quicksell_display_board/static/js/main.1877d66b.chunk.js.map",
+    "main.js": "/quicksell_display_board/static/js/main.9220b6d0.chunk.js",
+    "main.js.map": "/quicksell_display_board/static/js/main.9220b6d0.chunk.js.map",
     "runtime~main.js": "/quicksell_display_board/static/js/runtime~main.62a9e7fb.js",
     "runtime~main.js.map": "/quicksell_display_board/static/js/runtime~main.62a9e7fb.js.map",
     "static/js/2.acdaa6bc.chunk.js": "/quicksell_display_board/static/js/2.acdaa6bc.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.3b6fb9ae.chunk.js": "/quicksell_display_board/static/js/3.3b6fb9ae.chunk.js",
     "static/js/3.3b6fb9ae.chunk.js.map": "/quicksell_display_board/static/js/3.3b6fb9ae.chunk.js.map",
     "index.html": "/quicksell_display_board/index.html",
-    "precache-manifest.9a753f5cef5a894307fe05cbe7a5a195.js": "/quicksell_display_board/precache-manifest.9a753f5cef5a894307fe05cbe7a5a195.js",
+    "precache-manifest.ba359b5e7d2f8898e4c9634858bec284.js": "/quicksell_display_board/precache-manifest.ba359b5e7d2f8898e4c9634858bec284.js",
     "service-worker.js": "/quicksell_display_board/service-worker.js",
     "static/css/main.b64a8762.chunk.css.map": "/quicksell_display_board/static/css/main.b64a8762.chunk.css.map"
   }
